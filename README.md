@@ -1,2 +1,2 @@
 # NFL-Draft-prospect-predictor-
-Sophisticated website that will help predict the future success of NFL draft prospects. 
+There numerous variables that go in to the success of an NFL football player, therefore, no player is a sure thing. What if there was an in-depth website that would take all of those variables, use data from former and current players, and create a percentage chance success rate for each particular player? Factors in the calculation would include physical measurables, individual and team college statistics, intelligence, and character. All of these factors will be quantified, some using a scale form. 
