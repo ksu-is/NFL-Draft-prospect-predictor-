@@ -1,0 +1,6 @@
+- [x] Create title for website
+- [x] Create description of the website
+- [x] Create Read.me 
+- [ ] Analyze code from source and decide what variables will be used 
+- [ ] Enter code for each variable to begin the equation 
+- [ ] Run the code to ensure that the equation works 
