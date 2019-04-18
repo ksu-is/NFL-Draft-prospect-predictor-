@@ -4,3 +4,7 @@
 - [ ] Analyze code from source and decide what variables will be used 
 - [ ] Enter code for each variable to begin the equation 
 - [ ] Run the code to ensure that the equation works 
+- [ ] Decide what changes need to be made
+- [ ] Add new coding and see how it affects curent code
+- [ ] Keep the positive changes and remove the negative ones
+- [ ] Collaborate with group members to discuss our next steps
