@@ -123,6 +123,7 @@ for m in [1]:
             for position_group in ['CB','FS','SS','ILB','EDGE_DL','EDGE_LB','DT','WR','RB','TE','OT','OG','C']:
             #for position_group in ['WR']:
                 fuzzy_group = fuzzy_pos_groups[position_group]
+#this code is not going to run because you do not have the file below.
                 draftData = pd.read_csv(r'C:\Users\Walter King\Documents\Combine Data\data_files\combined_draft_classes_randomForest.csv')
                 for s in stat_list:
                     try:
