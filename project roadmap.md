@@ -1,6 +1,6 @@
-- [x] Create title for website
-- [x] Create description of the website
-- [x] Create Read.me 
+- [x] Create title for website DONE
+- [x] Create description of the website DONE
+- [x] Create Read.me DONE
 - [ ] Analyze code from source and decide what variables will be used 
 - [ ] Enter code for each variable to begin the equation 
 - [ ] Run the code to ensure that the equation works 
@@ -8,3 +8,4 @@
 - [ ] Add new coding and see how it affects curent code
 - [ ] Keep the positive changes and remove the negative ones
 - [ ] Collaborate with group members to discuss our next steps
+- [x] Create power point slide to set expectation DONE
