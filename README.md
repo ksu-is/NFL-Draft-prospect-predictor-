@@ -9,3 +9,5 @@ Past player profiles, statistics, and measurements will help lay the basis of th
 This website will not solely predict the outcome of the NFL draft by any means, but it will be an extremely useful tool for NFL general managers and scouts to use, especially as a reference. I think this website could be used as the basis of trade negotiations and determining contract values. 
 
 A great portion of the research required for this project has already been compltet, and is still currently being worked on, by Walt King. His work can be found through this link here: https://github.com/walt-king/NFL-draft-research . 
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fa%2Fa2%2FNational_Football_League_logo.svg%2F1200px-National_Football_League_logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNational_Football_League&docid=APdj1WWqX-tYYM&tbnid=ZfRPUzbAoZi8_M%3A&vet=10ahUKEwiXkv_MmPbhAhUuh-AKHaGdBTsQMwiDASgRMBE..i&w=1200&h=1649&client=safari&bih=744&biw=1434&q=NFL&ved=0ahUKEwiXkv_MmPbhAhUuh-AKHaGdBTsQMwiDASgRMBE&iact=mrc&uact=8
