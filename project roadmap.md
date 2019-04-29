@@ -9,3 +9,4 @@
 - [ ] Keep the positive changes and remove the negative ones
 - [ ] Collaborate with group members to discuss our next steps
 - [x] Create power point slide to set expectation DONE
+- [ ] Present project to class 
