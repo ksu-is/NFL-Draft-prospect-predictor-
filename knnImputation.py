@@ -9,7 +9,7 @@ Created on Sat Mar  2 08:20:03 2019
 ## https://towardsdatascience.com/handling-missing-values-in-machine-learning-part-1-dda69d4f88ca
 ## https://towardsdatascience.com/handling-missing-values-in-machine-learning-part-2-222154b4b58e
 
-#files 'pandas' and 'numpy' cannot be found/accessed 
+#files 'pandas' and 'numpy' cannot be located/accessed 
 import pandas as pd
 import numpy as np
 #import matplotlib.pyplot as plt
