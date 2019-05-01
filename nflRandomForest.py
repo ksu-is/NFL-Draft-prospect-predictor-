@@ -5,12 +5,6 @@ Created on Sat Mar  2 19:24:06 2019
 @author: Walter King
 """
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error
 from math import sqrt
 from statistics import mean
 

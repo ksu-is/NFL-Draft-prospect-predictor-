@@ -5,11 +5,6 @@ Created on Sun Mar  3 14:06:04 2019
 
 """
 
-import pandas as pd
-import requests, bs4
-from bs4 import BeautifulSoup
-import re
-import urllib
 
 def findTables(url):
     res = requests.get(url)

@@ -6,7 +6,7 @@ Created on Tue Feb 26 07:33:15 2019
 """
 
 import urllib
-from bs4 import BeautifulSoup
+
 
 draft_year = 2009
 start_num = 0
@@ -15,7 +15,7 @@ link_num = 10
 ##10,13,16,19,22...79,82
 
 url_list = []
-
+#variable 'BeautifulSoup' needs to be defined
 while len(url_list) < 300:
     url = "http://www.draftscout.com/members/ratings/top750.php?draftyear=" + \
         str(draft_year) + "&sortby=rateall&order=ASC&startspot=" + str(start_num)
