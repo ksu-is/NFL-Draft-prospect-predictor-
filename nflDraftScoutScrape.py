@@ -14,6 +14,7 @@ link_num = 10
 ##PLAYER RANKINGS BY PAGE (1-25)
 ##10,13,16,19,22...79,82
 
+#URL in line 21 and line 29 do not work - need updating. 
 url_list = []
 #variable 'BeautifulSoup' needs to be defined
 while len(url_list) < 300:
