@@ -8,10 +8,10 @@ Created on Sun Mar  3 14:06:04 2019
 
 def findTables(url):
     res = requests.get(url)
-    comm = re.compile("<!--|-->")
+    comm = res.compile("<!--|-->")
     soup = bs4.BeautifulSoup(comm.sub("", res.text), 'lxml')
     divs = soup.findAll('div', id = "content")
-    divs = divs[0].findAll("div", id=re.compile("^all"))
+    divs = divs[0].findAll("div", id=res.compile("^all"))
     ids = []
     for div in divs:
         searchme = str(div.findAll("table"))
@@ -24,7 +24,7 @@ def findTables(url):
 def pullTable(url, tableID, header = False):
     res = requests.get(url)
     ## Work around comments
-    comm = re.compile("<!--|-->")
+    comm = res.compile("<!--|-->")
     soup = bs4.BeautifulSoup(comm.sub("", res.text), 'lxml')
     tables = soup.findAll('table', id = tableID)
     data_rows = tables[0].findAll('tr')
@@ -47,7 +47,7 @@ def pullTable(url, tableID, header = False):
 def pullLinks(url, tableID, header = False):
     res = requests.get(url)
     ## Work around comments
-    comm = re.compile("<!--|-->")
+    comm = res.compile("<!--|-->")
     soup = bs4.BeautifulSoup(comm.sub("", res.text), 'lxml')
     tables = soup.findAll('table', id = tableID)
     data_rows = tables[0].findAll('tr')
