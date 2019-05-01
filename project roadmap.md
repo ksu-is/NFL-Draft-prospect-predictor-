@@ -1,12 +1,12 @@
 - [x] Create title for website DONE
 - [x] Create description of the website DONE
 - [x] Create Read.me DONE
-- [ ] Analyze code from source and decide what variables will be used 
-- [ ] Enter code for each variable to begin the equation 
-- [ ] Run the code to ensure that the equation works 
-- [ ] Decide what changes need to be made
-- [ ] Add new coding and see how it affects curent code
-- [ ] Keep the positive changes and remove the negative ones
-- [ ] Collaborate with group members to discuss our next steps
-- [x] Create power point slide to set expectation DONE
-- [ ] Present project to class 
+- [X] Upload code from Walt-King/NFL-Draft-Research DONE
+- [X] Clone files to Github Desktop and upload them to Visual Studio DONE
+- [X] Run the code, locate problems under 'Problems' tab DONE
+- [X] Analyze code in Visual Studio, leave comments for each problem DONE
+- [X] Assign each problem to a group member DONE
+- [ ] Work each problem and find a solution
+- [ ] Make notes of successful changes, and also unscuccessful attempts
+- [ ] Discuss progress with group memebrs/Exchange notes
+- [X] Create power point slide to set expectation DONE
